@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manpreet Kaur
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking forward to get my first job as a junior developer
+- 💞️ I’m looking forward to get my first job as a software developer
 - 📫 You can contact me through email, email address is manpreetkaurdatla@gmail.com
